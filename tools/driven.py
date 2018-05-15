@@ -3,16 +3,11 @@
 # -*- coding: encoding -*-
 import sys
 import time
-from tools.readExcel import Excel
+from tools.myTools import Excel
 from termcolor import *
-from tools.write_log import write_log
+from tools.myTools import *
 from termcolor import *
 import sys
-#from write_log import write_log
-#from tools.getDict import get_dc
-#from removeExcel import removeExcel
-from tools.myTools import get_dc
-from tools.myTools import removeExcel
 class Driven:
     #实现数据驱动
     def driven_it(self):

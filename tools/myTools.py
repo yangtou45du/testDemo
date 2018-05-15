@@ -9,7 +9,6 @@ class Excel():
         data=xlrd.open_workbook(path)
         sheet=data.sheets()[index]
         return sheet
-
 def removeExcel():
     wb=load_workbook("C:\Users\Lenovo\PycharmProjects\\testdemo\\testdata\\test_result.xlsx")
     sheet=wb.active

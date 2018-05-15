@@ -4100,3 +4100,371 @@ exception:1result:1
 ##### start Test Case46  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
 2018-05-15 14:49:55  640102016041803097:test fail.........
 ##### stop Test Case46  ####
+
+##### start Test Case1  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:54:59  100002018030401001:test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:54:59  100002018031001926:test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:54:59  100002018012900132:test fail.........
+##### stop Test Case3  ####
+
+##### start Test Case4  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:54:59  100002017122100412:test fail.........
+##### stop Test Case4  ####
+
+##### start Test Case5  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002017032801635:test fail.........
+##### stop Test Case5  ####
+
+##### start Test Case6  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002017032800581:test fail.........
+##### stop Test Case6  ####
+
+##### start Test Case7  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002018030705424:test fail.........
+##### stop Test Case7  ####
+
+##### start Test Case8  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002017032702575:test fail.........
+##### stop Test Case8  ####
+
+##### start Test Case9  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002017040800400:test fail.........
+##### stop Test Case9  ####
+
+##### start Test Case10  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002017032701890:test fail.........
+##### stop Test Case10  ####
+
+##### start Test Case11  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:54:59  100002017052700440:test fail.........
+##### stop Test Case11  ####
+
+##### start Test Case12  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:54:59  540102016040500493:test fail.........
+##### stop Test Case12  ####
+
+##### start Test Case13  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:54:59  100002017120104580:test fail.........
+##### stop Test Case13  ####
+
+##### start Test Case14  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:55:00  300002017121002606:test fail.........
+##### stop Test Case14  ####
+
+##### start Test Case15  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  300002017121300160:test fail.........
+##### stop Test Case15  ####
+
+##### start Test Case16  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  300002017120900129:test fail.........
+##### stop Test Case16  ####
+
+##### start Test Case17  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  300002017120302212:test fail.........
+##### stop Test Case17  ####
+
+##### start Test Case18  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  300002017111702704:test fail.........
+##### stop Test Case18  ####
+
+##### start Test Case19  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  000002017092903572:test fail.........
+##### stop Test Case19  ####
+
+##### start Test Case20  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  990002017112903561:test fail.........
+##### stop Test Case20  ####
+
+##### start Test Case21  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:55:00  990002017100901862:test fail.........
+##### stop Test Case21  ####
+
+##### start Test Case22  ####exception:{"message":"查询成功！","settleState":"1","normalState":"1","code":1}result:1
+2018-05-15 14:55:00  540102016102604592:test fail.........
+##### stop Test Case22  ####
+
+##### start Test Case23  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  540102016103004359:test fail.........
+##### stop Test Case23  ####
+
+##### start Test Case24  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017091202257:test fail.........
+##### stop Test Case24  ####
+
+##### start Test Case25  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017081200635:test fail.........
+##### stop Test Case25  ####
+
+##### start Test Case26  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017033001535:test fail.........
+##### stop Test Case26  ####
+
+##### start Test Case27  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  540102016041302370:test fail.........
+##### stop Test Case27  ####
+
+##### start Test Case28  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  540102016113000436:test fail.........
+##### stop Test Case28  ####
+
+##### start Test Case29  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  660002017060500120:test fail.........
+##### stop Test Case29  ####
+
+##### start Test Case30  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017090200572:test fail.........
+##### stop Test Case30  ####
+
+##### start Test Case31  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:00  660002017060201466:test fail.........
+##### stop Test Case31  ####
+
+##### start Test Case32  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  540102016040501087:test fail.........
+##### stop Test Case32  ####
+
+##### start Test Case33  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017051600434:test fail.........
+##### stop Test Case33  ####
+
+##### start Test Case34  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017111602607:test fail.........
+##### stop Test Case34  ####
+
+##### start Test Case35  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:00  660002017120200832:test fail.........
+##### stop Test Case35  ####
+
+##### start Test Case36  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:01  654302018020105882:test fail.........
+##### stop Test Case36  ####
+
+##### start Test Case37  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:01  653102017110204601:test fail.........
+##### stop Test Case37  ####
+
+##### start Test Case38  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:01  520402018020307056:test fail.........
+##### stop Test Case38  ####
+
+##### start Test Case39  ####exception:{"message":"查询成功！","settleState":"1","normalState":"1","code":1}result:1
+2018-05-15 14:55:01  620502016040401628:test fail.........
+##### stop Test Case39  ####
+
+##### start Test Case40  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:01  522702016031001226:test fail.........
+##### stop Test Case40  ####
+
+##### start Test Case41  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:55:01  450102017020302029:test fail.........
+##### stop Test Case41  ####
+
+##### start Test Case42  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:55:01  620902018010206187:test fail.........
+##### stop Test Case42  ####
+
+##### start Test Case43  ####exception:{"message":"查询成功！","settleState":"1","normalState":"1","code":1}result:1
+2018-05-15 14:55:01  469002017010106416 :test fail.........
+##### stop Test Case43  ####
+
+##### start Test Case44  ####exception:{"message":"查询失败，贷款编号不能为空！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:01  :test fail.........
+##### stop Test Case44  ####
+
+##### start Test Case45  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:01  42344:test fail.........
+##### stop Test Case45  ####
+
+##### start Test Case46  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:55:01  640102016041803097:test fail.........
+##### stop Test Case46  ####
+
+##### start Test Case1  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:00  100002018030401001:test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:00  100002018031001926:test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:00  100002018012900132:test fail.........
+##### stop Test Case3  ####
+
+##### start Test Case4  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:00  100002017122100412:test fail.........
+##### stop Test Case4  ####
+
+##### start Test Case5  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002017032801635:test fail.........
+##### stop Test Case5  ####
+
+##### start Test Case6  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002017032800581:test fail.........
+##### stop Test Case6  ####
+
+##### start Test Case7  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002018030705424:test fail.........
+##### stop Test Case7  ####
+
+##### start Test Case8  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002017032702575:test fail.........
+##### stop Test Case8  ####
+
+##### start Test Case9  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002017040800400:test fail.........
+##### stop Test Case9  ####
+
+##### start Test Case10  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002017032701890:test fail.........
+##### stop Test Case10  ####
+
+##### start Test Case11  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:00  100002017052700440:test fail.........
+##### stop Test Case11  ####
+
+##### start Test Case12  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:56:00  540102016040500493:test fail.........
+##### stop Test Case12  ####
+
+##### start Test Case13  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:01  100002017120104580:test fail.........
+##### stop Test Case13  ####
+
+##### start Test Case14  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:01  300002017121002606:test fail.........
+##### stop Test Case14  ####
+
+##### start Test Case15  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  300002017121300160:test fail.........
+##### stop Test Case15  ####
+
+##### start Test Case16  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  300002017120900129:test fail.........
+##### stop Test Case16  ####
+
+##### start Test Case17  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  300002017120302212:test fail.........
+##### stop Test Case17  ####
+
+##### start Test Case18  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  300002017111702704:test fail.........
+##### stop Test Case18  ####
+
+##### start Test Case19  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  000002017092903572:test fail.........
+##### stop Test Case19  ####
+
+##### start Test Case20  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  990002017112903561:test fail.........
+##### stop Test Case20  ####
+
+##### start Test Case21  ####exception:{"message":"查询成功！","settleState":"0","normalState":"1","code":1}result:1
+2018-05-15 14:56:01  990002017100901862:test fail.........
+##### stop Test Case21  ####
+
+##### start Test Case22  ####exception:{"message":"查询成功！","settleState":"1","normalState":"1","code":1}result:1
+2018-05-15 14:56:01  540102016102604592:test fail.........
+##### stop Test Case22  ####
+
+##### start Test Case23  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  540102016103004359:test fail.........
+##### stop Test Case23  ####
+
+##### start Test Case24  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  660002017091202257:test fail.........
+##### stop Test Case24  ####
+
+##### start Test Case25  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  660002017081200635:test fail.........
+##### stop Test Case25  ####
+
+##### start Test Case26  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  660002017033001535:test fail.........
+##### stop Test Case26  ####
+
+##### start Test Case27  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  540102016041302370:test fail.........
+##### stop Test Case27  ####
+
+##### start Test Case28  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  540102016113000436:test fail.........
+##### stop Test Case28  ####
+
+##### start Test Case29  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  660002017060500120:test fail.........
+##### stop Test Case29  ####
+
+##### start Test Case30  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  660002017090200572:test fail.........
+##### stop Test Case30  ####
+
+##### start Test Case31  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:01  660002017060201466:test fail.........
+##### stop Test Case31  ####
+
+##### start Test Case32  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  540102016040501087:test fail.........
+##### stop Test Case32  ####
+
+##### start Test Case33  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:01  660002017051600434:test fail.........
+##### stop Test Case33  ####
+
+##### start Test Case34  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  660002017111602607:test fail.........
+##### stop Test Case34  ####
+
+##### start Test Case35  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  660002017120200832:test fail.........
+##### stop Test Case35  ####
+
+##### start Test Case36  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  654302018020105882:test fail.........
+##### stop Test Case36  ####
+
+##### start Test Case37  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  653102017110204601:test fail.........
+##### stop Test Case37  ####
+
+##### start Test Case38  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  520402018020307056:test fail.........
+##### stop Test Case38  ####
+
+##### start Test Case39  ####exception:{"message":"查询成功！","settleState":"1","normalState":"1","code":1}result:1
+2018-05-15 14:56:02  620502016040401628:test fail.........
+##### stop Test Case39  ####
+
+##### start Test Case40  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  522702016031001226:test fail.........
+##### stop Test Case40  ####
+
+##### start Test Case41  ####exception:{"message":"查询成功！","settleState":"1","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  450102017020302029:test fail.........
+##### stop Test Case41  ####
+
+##### start Test Case42  ####exception:{"message":"查询成功！","settleState":"0","normalState":"0","code":1}result:1
+2018-05-15 14:56:02  620902018010206187:test fail.........
+##### stop Test Case42  ####
+
+##### start Test Case43  ####exception:{"message":"查询成功！","settleState":"1","normalState":"1","code":1}result:1
+2018-05-15 14:56:02  469002017010106416 :test fail.........
+##### stop Test Case43  ####
+
+##### start Test Case44  ####exception:{"message":"查询失败，贷款编号不能为空！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:02  :test fail.........
+##### stop Test Case44  ####
+
+##### start Test Case45  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:02  42344:test fail.........
+##### stop Test Case45  ####
+
+##### start Test Case46  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
+2018-05-15 14:56:02  640102016041803097:test fail.........
+##### stop Test Case46  ####

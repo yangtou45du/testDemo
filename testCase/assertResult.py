@@ -5,10 +5,7 @@ import time
 import json
 from common.settledAccount import settledAccount
 from termcolor import *
-#from tools.writeExcel import write
-#from tools.write_log import write_log
-from tools.myTools import write
-from tools.myTools import write_log
+from tools.myTools import *
 class assertResult():
     def assert_result(self,url,dict,exception):
         re=settledAccount().POST(url,dict)
