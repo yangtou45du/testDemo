@@ -32,12 +32,15 @@ class Driven:
             # #根据list[2]获取方法
             mtd = getattr(obj, list[2])  # mtd=assert_result
             nowTime = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
-
             try:
-                  dict = {}
-                  dict = get_dc(list[3])
-                  exce=list[4].encode("gbk")
-                  mtd(list[5],dict,exce)
+                exce = list[4].encode("gbk").replace(' ','').replace("\n", "")#将unicode转为str去掉空格和换行符
+                if "=" in list[3]:
+                    dict = {}
+                    dict = get_dc(list[3])
+                    mtd(list[5],dict,exce)
+                else:
+                    mtd(list[5],eval(list[3].encode('gbk')),exce)
+
             except Exception as e:
                 print list[5]
                 print list[4]
@@ -50,4 +53,7 @@ class Driven:
             i+=1
 dr=Driven()
 dr.driven_it()
+
+
+
 

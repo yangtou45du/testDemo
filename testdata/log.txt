@@ -4468,3 +4468,609 @@ exception:1result:1
 ##### start Test Case46  ####exception:{"message":"查询失败，贷款编号错误或者该贷款未逾期！","settleState":"","normalState":"","code":0}result:1
 2018-05-15 14:56:02  640102016041803097:test fail.........
 ##### stop Test Case46  ####
+
+##### start Test Case1  ####2018-05-16 15:14:56 error :HTTPConnectionPool(host='amstest4.phkjcredit.com', port=80): Max retries exceeded with url: /ams_web/ContextServlet (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003894F28>: Failed to establish a new connection: [Errno 11004] getaddrinfo failed',))
+
+##### start Test Case1  ####2018-05-21 17:05:01 error :list index out of range
+
+##### start Test Case1  ####2018-05-21 17:05:57 error :list index out of range
+
+2018-05-21 17:27:39  :test  sucessful
+
+##### start Test Case1  ####
+##### start Test Case1  ####exception:
+    "meta": {
+        "code": "0000",
+        "message": "还款记录查询接口调用成功"
+    }
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:28:22  :test fail.........
+##### stop Test Case1  ####
+
+2018-05-21 17:29:06  :test  sucessful
+
+##### start Test Case1  ####
+2018-05-21 17:29:24  :test  sucessful
+exception:
+    "meta": {
+        "code": "0000",
+        "message": "还款记录查询接口调用成功"
+    }
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:29:24  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-21 17:30:00  :test  sucessful
+exception:
+    "meta": {
+        "code": "0000",
+        "message": "还款记录查询接口调用成功"
+    }
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:30:00  :test fail.........
+##### stop Test Case1  ####
+
+2018-05-21 17:30:54  :test  sucessful
+
+2018-05-21 17:32:10  :test  sucessful
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000",
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:32:28  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001",
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:32:28  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000",
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:33:29  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001",
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:33:29  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:39:00  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:39:00  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:39:43  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:39:43  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:40:05  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:40:05  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:40:26  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:40:26  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:41:29  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:41:29  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:41:55  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:41:55  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:42:18  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:42:18  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:42:33  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:42:33  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####2018-05-21 17:44:50 error :'list' object is not callable
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:46:10  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"没有参数"}}
+2018-05-21 17:46:10  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code": "0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:46:28  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code": "1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:46:28  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:47:25  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:47:25  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:48:29  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:48:29  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:49:08  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:49:08  :test fail.........
+##### stop Test Case2  ####
+
+2018-05-21 17:50:38  :test  sucessful
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:52:10  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:52:10  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:52:47  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:52:47  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        code:0000
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:53:32  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:53:32  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        0000
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:56:44  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:56:44  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-21 17:58:37  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-21 17:58:38  :test fail.........
+##### stop Test Case2  ####
+
+2018-05-22 14:20:00  :test  sucessful
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:23:40  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-22 14:23:40  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:24:12  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-22 14:24:12  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:25:29  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-22 14:25:29  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:25:57  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-22 14:25:57  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:28:21  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-22 14:28:21  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####exception:
+  
+        "code":"0000"
+   
+result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:29:58  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:
+  
+        "code":"1001"
+   
+result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-22 14:29:58  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####
+2018-05-22 14:31:58  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####
+2018-05-22 14:31:58  :test  sucessful
+##### stop Test Case2  ####
+
+##### start Test Case1  ####
+2018-05-22 14:33:32  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####
+2018-05-22 14:33:32  :test  sucessful
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-22 14:33:32  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case1  ####
+2018-05-22 14:36:35  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####
+2018-05-22 14:36:35  :test  sucessful
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-22 14:36:36  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case4  ####exception:"code": "0000"result:{"data":{"loanNo":"660002017060100274","transDetails":[{"dealingTime":"2018-05-06 14:25:05","handleTime":"2018-05-06 14:26:24","loanNo":"660002017060100274","netpayName":"gyl_act_pay","startTime":"2018-05-06 14:25:05","transAmt":585.0,"transMsg":"交易成功","transState":"交易成功","userId":"customer","userName":"杨占云"},{"dealingTime":"2018-05-05 16:46:21","handleTime":"2018-05-05 21:02:38","loanNo":"660002017060100274","netpayName":"农行线下代扣","startTime":"2018-05-05 20:48:08","transAmt":585.0,"transMsg":"可用余额不足,[详细信息为:账号\u003d[29-353001101297100]，可用余额\u003d[0.430000]]","transState":"交易失败","userId":"26040091","userName":"张迪"},{"dealingTime":"2018-05-04 10:42:10","handleTime":"2018-05-04 11:42:24","loanNo":"660002017060100274","netpayName":"gyl_act_pay","startTime":"2018-05-04 10:42:10","transAmt":585.0,"transMsg":"交易超时，自动关闭","transState":"交易失败","userId":"customer","userName":"杨占云"},{"dealingTime":"2018-05-03 16:07:13","handleTime":"2018-05-03 16:24:17","loanNo":"660002017060100274","netpayName":"农行线下代扣","startTime":"2018-05-03 16:09:23","transAmt":585.0,"transMsg":"可用余额不足,[详细信息为:账号\u003d[29-353001101297100]，可用余额\u003d[2.430000]]","transState":"交易失败","userId":"26040091","userName":"张迪"},{"dealingTime":"2018-05-02 10:12:57","handleTime":"2018-05-02 10:49:14","loanNo":"660002017060100274","netpayName":"中金（挖财）批量代扣","startTime":"2018-05-02 10:19:07","transAmt":585.0,"transMsg":"64:卡上的余额不足[1000051]","transState":"交易失败","userId":"12240057","userName":"李晓霞"},{"dealingTime":"2018-04-05 13:30:58","handleTime":"2018-04-05 13:31:11","loanNo":"660002017060100274","netpayName":"gyl_act_pay","startTime":"2018-04-05 13:30:58","transAmt":585.0,"transMsg":"交易成功","transState":"交易成功","userId":"customer","userName":"杨占云"},{"dealingTime":"2018-04-05 13:17:53","handleTime":"2018-04-05 13:30:16","loanNo":"660002017060100274","netpayName":"gyl_act_pay","startTime":"2018-04-05 13:17:53","transAmt":585.0,"transMsg":"关闭的交易","transState":"交易失败","userId":"customer","userName":"杨占云"},{"dealingTime":"2018-04-02 10:10:44","handleTime":"2018-04-02 10:43:38","loanNo":"660002017060100274","netpayName":"中金（挖财）批量代扣","startTime":"2018-04-02 10:13:31","transAmt":585.0,"transMsg":"64:卡上的余额不足[1000051]","transState":"交易失败","userId":"admin","userName":"超级管理员"},{"dealingTime":"2018-04-01 10:59:21","handleTime":"2018-04-01 11:34:16","loanNo":"660002017060100274","netpayName":"中金（挖财）批量代扣","startTime":"2018-04-01 11:04:08","transAmt":585.0,"transMsg":"64:卡上的余额不足[1000051]","transState":"交易失败","userId":"admin","userName":"超级管理员"},{"dealingTime":"2018-03-03 17:27:43","handleTime":"2018-03-03 17:27:57","loanNo":"660002017060100274","netpayName":"gyl_act_pay","startTime":"2018-03-03 17:27:43","transAmt":585.0,"transMsg":"交易成功","transState":"交易成功","userId":"customer","userName":"杨占云"}],"transNum":"23","transNumDealing":"0","transNumFail":"16","transNumSucc":"7"},"meta":{"code":"0000","message":"还款明细查询调用接口成功"}}
+2018-05-22 14:36:36  :test fail.........
+##### stop Test Case4  ####
+
+##### start Test Case1  ####
+2018-05-22 14:37:51  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####
+2018-05-22 14:37:51  :test  sucessful
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-22 14:37:51  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case4  ####
+2018-05-22 14:37:52  :test  sucessful
+##### stop Test Case4  ####
+
+##### start Test Case1  ####
+2018-05-22 14:38:41  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####
+2018-05-22 14:38:42  :test  sucessful
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-22 14:38:42  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case4  ####
+2018-05-22 14:38:42  :test  sucessful
+##### stop Test Case4  ####
+
+##### start Test Case5  ####
+2018-05-22 14:38:42  :test  sucessful
+##### stop Test Case5  ####
+
+##### start Test Case1  ####exception:
+
+"code":"0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:40:19  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####exception:
+
+"code":"0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:40:40  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####exception:
+
+"code":"0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:41:49  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####exception:
+
+"code":"0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:42:11  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:42:34  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####exception:"code":  "0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:42:43  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:42:50  :test  sucessful
+##### stop Test Case1  ####
+exception:"code":  "0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:43:12  :test fail.........
+
+##### start Test Case1  ####
+2018-05-22 14:44:23  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####exception:  "code":"0000"result:{"data":{"loanNo":"000002017090601542","repaidAmt":636,"repaidDetail":[{"dealId":"03120128","dealName":"蔡卢敏","isCredited":"000001","netpayId":"dg","transAmt":536,"transTime":"2017-10-27 10:10:05"},{"dealId":"etl","dealName":"etl","isCredited":"000001","netpayId":"bf_act_pay","transAmt":100,"transTime":"2017-09-15 05:09:56"}],"repaidNum":"2","repaidSumNum":"2"},"meta":{"code":"0000","message":"还款记录查询接口调用成功"}}
+2018-05-22 14:44:43  :test fail.........
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:44:48  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:45:23  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:47:09  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:47:48  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 14:50:20  :test  sucessful
+##### stop Test Case1  ####
