@@ -5074,3 +5074,103 @@ exception:"code":  "0000"result:{"data":{"loanNo":"000002017090601542","repaidAm
 ##### start Test Case1  ####
 2018-05-22 14:50:20  :test  sucessful
 ##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 16:11:57  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-22 16:37:47  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-25 11:23:32  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case1  ####
+2018-05-25 11:26:31  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:26:31  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####
+2018-05-25 11:27:18  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:27:18  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case1  ####
+2018-05-25 11:27:33  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:27:33  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-25 11:27:33  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case1  ####
+2018-05-25 11:28:50  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:28:50  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-25 11:28:50  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case1  ####
+2018-05-25 11:28:59  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:29:00  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-25 11:29:00  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case1  ####
+2018-05-25 11:29:30  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:29:30  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-25 11:29:30  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case1  ####
+2018-05-25 11:30:14  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:30:14  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-25 11:30:14  :test  sucessful
+##### stop Test Case3  ####
+
+##### start Test Case1  ####
+2018-05-25 11:30:51  :test  sucessful
+##### stop Test Case1  ####
+
+##### start Test Case2  ####exception:"code":"0001"result:{"data":{},"meta":{"code":"1001","message":"贷款编号不能为空"}}
+2018-05-25 11:30:51  :test fail.........
+##### stop Test Case2  ####
+
+##### start Test Case3  ####
+2018-05-25 11:30:51  :test  sucessful
+##### stop Test Case3  ####

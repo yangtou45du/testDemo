@@ -40,17 +40,14 @@ class Driven:
                     mtd(list[5],dict,exce)
                 else:
                     mtd(list[5],eval(list[3].encode('gbk')),exce)
-
             except Exception as e:
-                print list[5]
-                print list[4]
-                print list[3]
                 write_log(nowTime + " error :" + str(e) +"\n")
                 print colored((nowTime + str(e)), "red")
                 sys.exit()
             print("##### stop Test Case"+str(i)+"  ####\n")
             write_log("##### stop Test Case"+str(i)+"  ####\n")
             i+=1
+
 dr=Driven()
 dr.driven_it()
 

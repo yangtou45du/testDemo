@@ -2,7 +2,7 @@
 # -*- coding: cp936 -*-
 # -*- coding: encoding -*-
 import time
-from common.sendRequest import sendRequest
+from common.sendJsonRequest import sendRequest
 from termcolor import *
 from tools.myTools import *
 class test_orRemove():
@@ -25,6 +25,7 @@ class test_orRemove():
             list = [nowTime, url, "fail"]
             write(list)
             write_log('\n' + nowTime + "  " + ":" + "test fail........." + '\n')
+
 
 url="http://221.236.20.217:8093/pcl/services/loanCenter/account/queryPaymentHistory"
 dict={

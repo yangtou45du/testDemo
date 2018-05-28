@@ -2,9 +2,10 @@
 # -*- coding: cp936 -*-
 # -*- coding: encoding -*-
 import time
-from common.sendRequest import sendRequest
+from common.sendDataRequest import sendRequest
 from termcolor import *
 from tools.myTools import *
+from tools.connectOracle import connectOracle
 class test_settledAcount():
     def assert_settledAcount(self,url,dict,exception):
         re=sendRequest().POST(url,dict)
