@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../FAMCAuto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../appium" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../myLittleTools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/common" vcs="Git" />
   </component>
 </project>

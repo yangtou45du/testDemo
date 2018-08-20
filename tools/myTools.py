@@ -5,6 +5,7 @@ import xlrd,sys
 from openpyxl import load_workbook
 from openpyxl import Workbook
 import cx_Oracle
+
 class Excel():
     def read_it(self, path, index=0):
         data=xlrd.open_workbook(path)
@@ -27,7 +28,9 @@ def write(list):
     wb=load_workbook(filename)
     sheet = wb.active # ¼¤»î¹¤×÷Ò³
     sheet.append(list)
+    wb.close()
     wb.save("C:\Users\Lenovo\PycharmProjects\\testdemo\\testdata\\test_result.xlsx")
+
 def get_dc(string):
     list=string.split("\n")
     dc={}

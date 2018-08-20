@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../python/.idea/file.iml" filepath="$PROJECT_DIR$/../python/.idea/file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FAMCAuto/.idea/FAMCAuto.iml" filepath="$PROJECT_DIR$/../FAMCAuto/.idea/FAMCAuto.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/PycharmProjects/.idea/PycharmProjects.iml" filepath="$USER_HOME$/Desktop/PycharmProjects/.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autoTestFrameWork/.idea/autoTestFrameWork.iml" filepath="$PROJECT_DIR$/../autoTestFrameWork/.idea/autoTestFrameWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/../myLittleTools/.idea/myLittleTools.iml" filepath="$PROJECT_DIR$/../myLittleTools/.idea/myLittleTools.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/settledAccount.iml" filepath="$PROJECT_DIR$/.idea/settledAccount.iml" />
     </modules>
